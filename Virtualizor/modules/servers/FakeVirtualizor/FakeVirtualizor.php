@@ -62,7 +62,7 @@ function FakeVirtualizor_ClientArea($params) {
         $mainarray = array(
             "license" => $service->password,
             "lictype" => '-1',
-            "lictype_txt" => 'NagakaTech',
+            "lictype_txt" => 'Tech',
             "active" => 1,
             "active_txt" => '<font color="green">Active By Suzume</font>',
             "licnumvs" => 0,
