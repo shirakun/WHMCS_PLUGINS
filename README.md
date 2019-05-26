@@ -9,3 +9,4 @@ https://www.hostloc.com/thread-551330-1-1.html
 * Virtualizor Virtualizor伪授权出售插件
 * SolusVM SolusVM伪授权出售插件
 * WHMCS WHMCS域名授权出售插件
+* SourceCodeSeller 只提供文件下载的插件
