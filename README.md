@@ -12,3 +12,5 @@ https://www.hostloc.com/thread-551330-1-1.html
 * SourceCodeSeller 只提供文件下载的插件
 * Site 方便生成授权的网页版
 * Host Host伪站
+
+# 如果有侵权请联系我删除
